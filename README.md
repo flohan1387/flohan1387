@@ -31,7 +31,7 @@
 
   Technologies I'am using:
 
-  <img src="https://skillicons.dev/icons?i=python,java,spring,github,vscode,mysql,postgres,postman,obsidian,notion&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,github,vscode,mysql,postgres,postman,obsidian,notion,anaconda&perline=7" />
 </div>
 
   <a href="mailto:lohangcfc@gmail.com" alt="Gmail" target="_blank">
